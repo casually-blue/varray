@@ -1,0 +1,11 @@
+*
+!.gitignore
+
+!CMakeLists.txt
+
+!src
+!src/*.c 
+!src/*.h
+
+!docs
+!docs/Doxyfile.in
