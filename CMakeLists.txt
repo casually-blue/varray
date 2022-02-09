@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.10)
 
 project(varray)
 
-add_library(varray SHARED
+add_library(varray
   src/varray.c
   src/varray.h
 )
